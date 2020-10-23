@@ -72,3 +72,4 @@ if __name__ == '__main__':
     # query it executes.
 
     connect_to_db(app)
+
